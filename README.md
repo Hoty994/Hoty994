@@ -17,7 +17,7 @@ I specialize in building asynchronous, scalable, and secure backend systems with
 
 ### 🚀 Featured Project
 
-- **[Productivity & Analytics Tracker](https://github.com/Hoty994/ваша-назва-репозиторію):** Production-ready full-stack application featuring 2FA (OTP/fastapi-mail), Redis rate-limiting/caching, structured logging, and automated Pytest coverage.
+- **[Productivity & Analytics Tracker](https://github.com/life-in-pocket/frontend):** Production-ready full-stack application featuring 2FA (OTP/fastapi-mail), Redis rate-limiting/caching, structured logging, and automated Pytest coverage.
 
 ---
 
